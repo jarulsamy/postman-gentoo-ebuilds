@@ -14,7 +14,7 @@ SRC_URI="{src_url} -> postman.tar.gz"
 
 LICENSE=""
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="amd64"
 IUSE=""
 
 DEPEND=""
