@@ -33,11 +33,11 @@ Propagate the files to the repository of your choice!
 - Postman is primarily installed under `/opt` with a wrapper to launch in
   `/usr/bin`.
 
-- Paths for the icon is derived from the latest version, there is no guarentee
+- Paths for the icon is derived from the latest version, there is no guarantee
   it will work for older ones.
 
 - Postman has a handy changelog endpoint that outputs versions and download
   links via JSON ([funnily enough, also inspired by a Gentoo
   user](https://github.com/postmanlabs/postman-app-support/issues/2967)).
 
-  Have a look [](https://dl.pstmn.io/changelog).
+  Have a look [https://dl.pstmn.io/changelog](https://dl.pstmn.io/changelog).
